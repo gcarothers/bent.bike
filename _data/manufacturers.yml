@@ -7,6 +7,22 @@
 - name: Lightning Cycle Dynamics
   url: http://lightningbikes.com/
 
+- name: Cruzbike
+  url: http://www.cruzbike.com/
+
+- name: Lightfoot Cycles
+  url: http://www.lightfootcycles.com/
+  icon: http://www.lightfootcycles.com/wp-content/uploads/2013/04/favicon-lightfoot-16x16.png
+
+- name: MetaBikes
+  url: http://www.meta-bikes.com/
+
+- name: Syn Bicycles
+  url: http://www.sunbicycles.com/
+
+- name: KMX USA
+  url: http://www.kmxus.com/
+
 - name: Cattrike
   url: http://www.catrike.com/
   icon: http://static.wixstatic.com/ficons/be9aca_e2fd264cf67a6a7eade5ef6d78fe2fc2_fi.ico
