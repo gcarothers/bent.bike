@@ -1,0 +1,71 @@
+- name: Adventure RS
+  brand: ICE
+  img: http://www.icetrikes.co/image/overlay/st2011%2010%20Adventure%20RS.jpg
+  msrp: $3543.88
+  wheels: 20"
+  steering: Indirect
+  url: http://www.icetrikes.co/explore-our-trikes/adventure
+  dealer_url: http://www.icetrikes.co/dealers/
+
+- name: Sprint 26
+  brand: ICE
+  img: http://www.icetrikes.co/image/overlay/st2011%209%20sprint%2026.jpg
+  msrp: $3022.16
+  wheels: 20"x26"
+  steering: Indirect
+  url: http://www.icetrikes.co/explore-our-trikes/sprint
+  dealer_url: http://www.icetrikes.co/dealers/
+
+- name: VTX
+  brand: ICE
+  img: http://www.icetrikes.co/image/overlay/VTX%202014%20Standard.jpg
+  msrp: $4282.96
+  wheels: 20"x26"
+  steering: Indirect
+  url: http://www.icetrikes.co/explore-our-trikes/sprint
+  dealer_url: http://www.icetrikes.co/dealers/
+
+- name: 700
+  brand: Catrike
+  img: https://www.hostelshoppe.com/images/products/lb_13cat_700.jpg
+  msrp: $2950
+  steering: Direct
+  wheels: 20"x26"
+  url: "http://www.catrike.com/#!700/c1dnt"
+  dealer_url: "http://www.catrike.com/#!find-dealer/c5ge"
+
+- name: Expedition
+  brand: Catrike
+  img: http://basicallybicycles.com/merchant/590/images/zoom/Catrike_Expedition_recumbent_trike.jpg
+  msrp: $2550
+  wheels: 20"
+  steering: Direct
+  url: "http://www.catrike.com/#!expedition/c2465"
+  dealer_url: "http://www.catrike.com/#!find-dealer/c5ge"
+
+- name: Scorpion fs 26
+  brand: HP Velotechnik
+  img: http://www.hpvelotechnik.com/images/produkte/scorpion_fs26/Scorpion_fs_26-tour_links_1998.jpg
+  msrp: $4355.00
+  wheels: 20"x26"
+  steering: Indirect
+  url: http://www.hpvelotechnik.com/produkte/scorpion_fs26/index_e.html
+  dealer_url: http://www.hpvelotechnik.com/shopping/fachhaendler_e.html
+
+- name: Gekko fx
+  brand: HP Velotechnik
+  img: http://www.hpvelotechnik.com/images/produkte/gekkofx/gekko_fx_dreirad_ganz_gefaltet_rot_bionx.jpg
+  msrp: $2350.00
+  wheels: 20"
+  steering: Indirect
+  url: http://www.hpvelotechnik.com/produkte/gekkofx/index_e.html
+  dealer_url: http://www.hpvelotechnik.com/shopping/fachhaendler_e.html
+
+- name: Magnum
+  brand: Greenspeed
+  img: http://www.greenspeed.com.au/F.LHS.Hi.150.jpg
+  msrp: $3290
+  wheels: 20"
+  steering: Indirect
+  url: http://www.greenspeed.com.au/pdfs/Greenspeed.Magnum4.pdf
+  dealer_url: http://www.greenspeed.com.au/gsdealers.html
