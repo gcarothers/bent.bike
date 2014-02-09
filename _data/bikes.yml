@@ -1,0 +1,49 @@
+- name: Giro 20
+  brand: Bacchetta
+  img: http://www.bacchettabikes.com/img/bikes/2012-giro20.jpg
+  msrp: $1700
+  wheels: 20"x26"
+  steering: OSS
+  wheelbase: 47"
+  url: http://www.bacchettabikes.com/bikes/touring/giro-20
+  dealer_url: http://www.bacchettabikes.com/purchase/dealers/
+
+- name: Rocket
+  brand: RANS
+  img: http://www.rans.com/images/bicycles/600x428/rocket.jpg
+  msrp: $2395
+  wheels: 20"x26"
+  steering: OSS
+  wheelbase: 43.5"
+  url: http://www.rans.com/bicycles/rocket.html
+  dealer_url: http://www.rans.com/dealer_locator.html
+
+- name: Stratus XP
+  brand: RANS
+  img: http://www.rans.com/images/bicycles/600x428/stratus_xp.jpg
+  msrp: $2500
+  wheels: 26"x26"
+  steering: OSS
+  wheelbase: 68"
+  url: http://www.rans.com/bicycles/stratus-xp.html
+  dealer_url: http://www.rans.com/dealer_locator.html
+
+- name: Silvio v2.0
+  brand: Cruzbike
+  img: http://cruzbike.com/sites/default/files/imagecache/400x400/Side-400.jpg
+  msrp: $2500
+  wheels: 700Cx700C
+  steering: OSS
+  wheelbase: 40"
+  url: http://www.cruzbike.com/silvio
+  dealer_url: http://cruzbike.com/locals
+
+- name: P-38
+  brand: Lightning
+  img: http://lightningbikes.com/images/p38/P-38-XT-with-disc-brakes-thumbnail.jpg
+  msrp: $3400
+  wheels: 20"x26"
+  steering: OSS
+  wheelbase: 43"
+  url: http://lightningbikes.com/p38/index.html
+  dealer_url: http://lightningbikes.com/dealers/index.html

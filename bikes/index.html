@@ -1,0 +1,39 @@
+---
+layout: default
+title: bent.bike - bikes & trikes
+---
+
+<h1>Bikes</h1>
+<p>A selection of recumbent bicycles covering a range of styles, prices, and designs. This list is not exhaustive, but simply provides a good starting point in your journey to find the perfect bike.</p>
+<div class="table-responsive">
+  <table class="table table-striped tablesorter">
+    <thead>
+      <tr>
+        <th data-sorter="false">
+        <th>Name
+        <th>Manufacturer
+        <th data-sorter="currency" data-string="min">MSRP
+        <th>Wheels
+        <th>Steering
+        <th>Wheelbase
+        <th data-sorter="false">
+      </tr>
+    </thead>
+    <tbody>
+    {% for bike in site.data.bikes %}
+      <tr>
+        <td><img class="img-rounded" width="160" src="{{bike.img}}">
+        <td>{{bike.name}}
+        <td>{{bike.brand}}
+        <td>{{bike.msrp}}
+        <td>{{bike.wheels}}
+        <td>{{bike.steering}}
+        <td>{{bike.wheelbase}}
+        <td>
+          <a class="btn btn-default" href="{{bike.url}}" role="button"><i class="fa fa-info-circle"></i> More Info</a>
+          <a class="btn btn-default" href="{{bike.dealer_url}}" role="button"><i class="fa fa-usd"></i> Buy</a>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
