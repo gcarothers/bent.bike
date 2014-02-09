@@ -1,0 +1,28 @@
+- name: ICE 
+  url: http://www.icetrikes.co/
+
+- name: HASE Bikes
+  url: http://hasebikes.com/
+
+- name: Lightning Cycle Dynamics
+  url: http://lightningbikes.com/
+
+- name: Cattrike
+  url: http://www.catrike.com/
+  icon: http://static.wixstatic.com/ficons/be9aca_e2fd264cf67a6a7eade5ef6d78fe2fc2_fi.ico
+
+- name: RANS
+  url: http://www.rans.com/
+
+- name: Trisled
+  url: http://www.trisled.com.au/
+
+- name: TerraTrike
+  url: http://www.terratrike.com/
+  icon: http://www.terratrike.com/images/pageElements/favicon.ico
+
+- name: HP Velotechnick
+  url: http://www.hpvelotechnik.com/
+
+- name: Bacchetta
+  url: http://www.bacchettabikes.com/
