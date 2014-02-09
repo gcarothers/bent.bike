@@ -32,8 +32,10 @@ title: bent.bike - bikes & trikes
         <td>{{bike.steering}}
         <td>{{bike.wheelbase}}
         <td>
-          <a class="btn btn-default" href="{{bike.url}}" role="button"><i class="fa fa-info-circle"></i> More Info</a>
-          <a class="btn btn-default" href="{{bike.dealer_url}}" role="button"><i class="fa fa-usd"></i> Buy</a>
+          <ul class="list-unstyled">
+            <li><a href="{{bike.url}}"><i class="fa fa-info-circle"></i> More info about {{bike.name}}</a>
+            <li><a href="{{bike.dealer_url}}"><i class="fa fa-usd"></i> Find a Dealer</a>
+          </ul>
       </tr>
     {% endfor %}
     </tbody>
